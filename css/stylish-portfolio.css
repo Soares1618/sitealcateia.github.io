@@ -295,8 +295,9 @@ h6 {
 }
 
 footer.footer {
+  background-color: yellow;
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 2rem;
 }
 
 footer.footer .social-link {
